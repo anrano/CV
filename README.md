@@ -15,7 +15,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-36e0c0?style=flat-square&logo=githubpages&logoColor=white)](https://anrano.github.io/Portfolio/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rano.ruiz.antonio@gmail.com)
 
-### 🔗 [Ver mi CV en línea / View my resume online](https://anrano.github.io/CV/)   ·   📄 [Descargar PDF / Download PDF](CV_Antonio_Rano_Ruiz.pdf)
+### 🔗 [Ver mi CV en línea / View my resume online](https://anrano.github.io/CV/)   |   📄 [Descargar PDF / Download PDF](CV_Antonio_Rano_Ruiz.pdf)
 
 </div>
 
